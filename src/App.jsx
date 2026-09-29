@@ -39,7 +39,7 @@ function Home() {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-3/4 h-3/4 bg-brand-gold/10 blur-[100px] rounded-full pointer-events-none"></div>
 
         <h1 className="text-4xl md:text-6xl font-extrabold mb-4 z-10 leading-tight">
-          Estética Automotiva <br/> <span className="text-brand-gold">Premium</span> em Manaus
+          Lava Rápido <br/> <span className="text-brand-gold">Premium</span> em Manaus
         </h1>
         <p className="text-brand-light text-lg md:text-xl max-w-2xl mb-10 z-10">
           Cuidamos do seu carro e da sua moto com produtos de alta qualidade. Serviço de recolha e entrega no seu trabalho ou residência!
