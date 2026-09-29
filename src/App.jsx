@@ -14,7 +14,7 @@ function Home() {
         
         <div className="flex items-center gap-3">
           <img 
-            src="/public/logo-lava-jato.jpeg" 
+            src="/public/logo-lava-jato.jpg" 
             alt="Logo Lava Jato Raul" 
             className="w-12 h-12 md:w-14 md:h-14 rounded-full border border-brand-gold/50 object-cover"
           />
