@@ -1,16 +1,52 @@
-# React + Vite
+# 🚗 Lava Jato do Raul
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> Landing page otimizada para captação de clientes locais em Manaus via Google Ads e agendamentos pelo WhatsApp.
 
-Currently, two official plugins are available:
+## 🌐 Link do Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Acesse o site em produção:** [lavajatoraul.vercel.app](https://lavajatoraul.vercel.app)
 
-## React Compiler
+## 🎯 Objetivo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Este projeto é uma Landing Page desenvolvida para o **Lava Jato do Raul**, localizado em Manaus/AM (região do Petrópolis). O foco principal do site é a conversão rápida: receber tráfego local qualificado através de campanhas de tráfego pago (Google Ads) e direcionar o usuário com o mínimo de atrito para o agendamento de lavagens via WhatsApp.
 
-## Expanding the Oxlint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Design Responsivo (Mobile-First):** Layout otimizado para smartphones, garantindo a melhor experiência para os usuários que clicam nos anúncios pelo celular.
+- **Call-to-Action (CTA) Direto:** Botões de contato focados em redirecionamento instantâneo para o WhatsApp do negócio.
+- **Performance:** Código limpo e leve para garantir um carregamento quase instantâneo, evitando a perda de cliques pagos por lentidão de rede.
+- **Rastreamento de Conversões:** Integração nativa com a Tag do Google Ads (`gtag.js`) para mensuração precisa de leads gerados.
+
+## 🛠️ Tecnologias Utilizadas
+- **React:** Biblioteca principal para a interface.
+- **Vite:** Ferramenta de build super rápida.
+- **Tailwind CSS:** Para toda a estilização e efeitos de glassmorphism e brilho (glow).
+- **Lucide React:** Biblioteca de ícones moderna.
+- **Hospedagem e Deploy Contínuo:** [Vercel](https://vercel.com/)
+- **Marketing e Analytics:** Google Ads (Tags de Rastreamento)
+
+## 🚀 Como rodar o projeto localmente
+
+1. Faça o clone deste repositório:
+   ```bash
+   git clone [https://github.com/Tavobrandao/lava-jato-raul.git](https://github.com/Tavobrandao/lava-jato-raul.git)
+
+2. Entre na pasta do projeto:
+
+    ```bash
+    cd lava-jato-raul
+    ```
+
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+
+4. Inicie o servidor local:
+    ```bash
+    npm run dev
+    ```
+
+## 📬 Contato
+
+**LinkedIn:** [Gustavo Brandão](https://www.linkedin.com/in/gustavobrandaobr/)
